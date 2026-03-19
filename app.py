@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.title('Simple Streamlit App')
+st.title('Jobsnaik's First Live App! 🚀')
 
 st.write("Here's our first attempt at using Streamlit to create a table:")
 st.write(pd.DataFrame({
